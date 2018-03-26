@@ -1,0 +1,24 @@
+PODS:
+  - Alamofire (4.7.0)
+  - BaseAPI (0.1.2)
+  - DAKeychain (1.0.0)
+  - GithubAPI (0.0.4):
+    - BaseAPI
+  - SwiftyJSON (4.0.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.7)
+  - DAKeychain
+  - GithubAPI
+  - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: 907e0a98eb68cdb7f9d1f541a563d6ac5dc77b25
+  BaseAPI: e234e06c832a85154f34f09d6b626364059b1638
+  DAKeychain: cf133e60108aa1ce46c2d21308d7c549ff455980
+  GithubAPI: f65be5a17f2cb5324c4b0fc418f1ab3e3952fcb7
+  SwiftyJSON: 070dabdcb1beb81b247c65ffa3a79dbbfb3b48aa
+
+PODFILE CHECKSUM: 2f152022b2f999aaa2318317930a553dfc6a65b8
+
+COCOAPODS: 1.4.0

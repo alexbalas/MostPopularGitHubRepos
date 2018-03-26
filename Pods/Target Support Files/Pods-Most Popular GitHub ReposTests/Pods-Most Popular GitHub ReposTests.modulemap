@@ -1,0 +1,6 @@
+framework module Pods_Most_Popular_GitHub_ReposTests {
+  umbrella header "Pods-Most Popular GitHub ReposTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
